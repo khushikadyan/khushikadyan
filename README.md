@@ -7,10 +7,9 @@
 
 ### 💻 Tech Stack
 - **Languages & Frameworks:**  
-  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)  
-  ![RestAPIs](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-  ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+ JAVA
+ PYTHON
+ RESTAPIS
 
 - **Data & Tools:**  
   ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)  
