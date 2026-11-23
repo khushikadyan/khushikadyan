@@ -19,15 +19,19 @@ Currently exploring: Software Engineering | Data Science | ML Engineering | Agen
 
 Open to: Software Engineer, Data Scientist, Machine Learning Engineer, and AI Engineer opportunities.
 
-🛠️ Tech Stack
-<!-- EDIT: add or remove badges. Badge format: https://img.shields.io/badge/NAME-COLOR?style=flat-square&logo=LOGO&logoColor=white -->
+## 🛠️ Tech Stack
 
-Languages: <img width="117" height="97" alt="image" src="https://github.com/user-attachments/assets/959ea881-f78e-4662-8b7d-70ee44a91a8d" />
+**Languages**
 
+![Languages](https://skillicons.dev/icons?i=python,postgres&theme=light)
 
-ML & Data: Show Image Show Image Show Image Show Image Show Image
+**ML & Data**
 
-Backend & Tools: Show Image Show Image Show Image Show Image Show Image
+![ML & Data](https://skillicons.dev/icons?i=sklearn,tensorflow,pandas,numpy&theme=light)
+
+**Backend & Tools**
+
+![Backend & Tools](https://skillicons.dev/icons?i=fastapi,flask,docker,postgres,git&theme=light)
 
 💼 Experience
 <!-- EDIT: each block is one role -->
