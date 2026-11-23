@@ -8,10 +8,17 @@ B.Tech CSE (Data Science & AI) · Hyderabad, India
 LinkedIn Email
 
 </div>
-👩‍💻 About
+👩‍💻 About Me
 
-I build machine learning and NLP solutions and take them all the way to working APIs. I like clean data, reproducible results, and models that people can actually use. Currently looking for Data Science / ML roles.
+I'm an engineer passionate about building intelligent, scalable, and production-ready software solutions. I enjoy working at the intersection of Software Engineering, Machine Learning, Data Science, and AI — turning complex problems into practical applications.
 
+My interests span software development, data-driven problem-solving, NLP, LLMs, and agentic AI systems. I enjoy building end-to-end solutions, from designing efficient algorithms and working with data to developing APIs, integrating AI capabilities, and deploying real-world applications.
+
+I believe in writing clean, maintainable code, building reproducible systems, and creating technology that solves meaningful problems.
+
+🚀 Currently exploring: Software Engineering | Data Science | ML Engineering | Agentic AI & AI-powered Applications
+
+🌱 Open to: Software Engineer, Data Scientist, Machine Learning Engineer, and AI Engineer opportunities.
 🛠️ Tech Stack
 <!-- EDIT: add or remove badges. Badge format: https://img.shields.io/badge/NAME-COLOR?style=flat-square&logo=LOGO&logoColor=white -->
 
