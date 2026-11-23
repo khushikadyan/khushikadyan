@@ -7,16 +7,6 @@ B.Tech CSE (Data Science & AI) · Hyderabad, India
 LinkedIn Email
 
 </div>
-🖥️ terminal
-bash
-khushi@hyderabad:~$ whoami
-Khushi Kadyan | B.Tech CSE (Data Science & AI)
-
-khushi@hyderabad:~$ cat exploring.txt
-Software Engineering | Data Science | ML Engineering | Agentic AI & AI-powered Applications
-
-khushi@hyderabad:~$ cat open_to.txt
-Software Engineer | Data Scientist | Machine Learning Engineer | AI Engineer
 👩‍💻 About Me
 
 I'm an engineer passionate about building intelligent, scalable, and production-ready software solutions. I enjoy working at the intersection of Software Engineering, Machine Learning, Data Science, and AI, turning complex problems into practical applications.
@@ -42,11 +32,15 @@ Backend & Tools: Show Image Show Image Show Image Show Image Show Image
 <!-- EDIT: each block is one role -->
 Software Developer Intern, FactSet
 
-Jan – Jun 2026 Analysed financial data across multiple products, investigated discrepancies, validated REST API outputs, and built a Python API QA test generator.
+Jan – Jun 2026
+
+Analysed financial data across multiple products, investigated discrepancies, validated REST API outputs, and built a Python API QA test generator.
 
 Software Engineering Intern, Celebal Technologies
 
-Jun – Nov 2025 Cleaned and validated multi-source data with Python, Pandas and SQL, and added error handling to ETL workflows.
+Jun – Nov 2025
+
+Cleaned and validated multi-source data with Python, Pandas and SQL, and added error handling to ETL workflows.
 
 📜 Certifications
 IBM: SQL & Relational Databases
