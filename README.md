@@ -32,15 +32,12 @@ Backend & Tools: Show Image Show Image Show Image Show Image Show Image
 <!-- EDIT: each block is one role -->
 Software Developer Intern, FactSet
 
+
 Jan – Jun 2026
-
-Analysed financial data across multiple products, investigated discrepancies, validated REST API outputs, and built a Python API QA test generator.
-
-Software Engineering Intern, Celebal Technologies
-
+Software Engineering Intern 
 Jun – Nov 2025
+Celebal Technologies
 
-Cleaned and validated multi-source data with Python, Pandas and SQL, and added error handling to ETL workflows.
 
 📜 Certifications
 IBM: SQL & Relational Databases
