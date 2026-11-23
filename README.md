@@ -8,8 +8,11 @@
 
 B.Tech CSE (Data Science & AI) · Hyderabad, India
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushi-kadyan-03s12a2004r/)
-[![Email](https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khushikadyan0711@gmail.com)
+<br/>
+
+<a href="https://www.linkedin.com/in/khushi-kadyan-03s12a2004r/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/></a>
+&nbsp;&nbsp;
+<a href="mailto:khushikadyan0711@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/></a>
 
 </div>
 
