@@ -1,10 +1,15 @@
-<!-- ============ HEADER ============ --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Hi%2C%20I'm%20Khushi%20Kadyan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%7C%20Data%20%26%20Technology%20Professional&descAlignY=62&descSize=18" width="100%"/> <!-- EDIT: change the lines after "lines=" (use + for spaces, ; between lines) --> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1100&color=00D9FF&center=true&vCenter=true&width=720&lines=Software+Engineer;Data+%26+Technology+Professional;Python+%7C+SQL+%7C+Machine+Learning+%7C+NLP;B.Tech+CSE+(Data+Science+%26+AI)" alt="Typing SVG" /> </a>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Khushi%20Kadyan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%7C%20Data%20%26%20Technology%20Professional&descAlignY=62&descSize=18" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1100&color=00D9FF&center=true&vCenter=true&width=720&lines=Software+Engineer;Data+%26+Technology+Professional;Python+%7C+SQL+%7C+Machine+Learning+%7C+NLP" alt="Typing SVG" />
 
 <br/><br/>
 
 B.Tech CSE (Data Science & AI) · Hyderabad, India
 
-LinkedIn Email
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushi-kadyan-03s12a2004r/)
+[![Email](https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khushikadyan0711@gmail.com)
 
 </div>
 
