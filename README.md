@@ -7,7 +7,8 @@ B.Tech CSE (Data Science & AI) · Hyderabad, India
 LinkedIn Email
 
 </div>
-👩‍💻 About Me
+
+## About Me
 
 I'm an engineer passionate about building intelligent, scalable, and production-ready software solutions. I enjoy working at the intersection of Software Engineering, Machine Learning, Data Science, and AI, turning complex problems into practical applications.
 
@@ -19,7 +20,7 @@ Currently exploring: Software Engineering | Data Science | ML Engineering | Agen
 
 Open to: Software Engineer, Data Scientist, Machine Learning Engineer, and AI Engineer opportunities.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <!-- EDIT: to add a skill, copy one badge line and change the name and colour. To remove one, delete its line. -->
 
@@ -78,7 +79,6 @@ Open to: Software Engineer, Data Scientist, Machine Learning Engineer, and AI En
 ![Dates](https://img.shields.io/badge/Jan%202026%20--%20Jun%202026-0A66C2?style=flat-square&logo=clockify&logoColor=white)
 ![Location](https://img.shields.io/badge/Hyderabad%20·%20On--site-555555?style=flat-square&logo=googlemaps&logoColor=white)
 
-<br/>
 
 ### 🔹 Software Engineering Intern · Celebal Technologies
 
