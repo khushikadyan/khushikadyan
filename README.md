@@ -69,16 +69,21 @@ Open to: Software Engineer, Data Scientist, Machine Learning Engineer, and AI En
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-💼 Experience
-<!-- EDIT: each block is one role -->
-Software Developer Intern, FactSet
+## 💼 Experience
 
+<!-- EDIT: each block is one role. Change the text and dates. -->
 
-Jan – Jun 2026
-Software Engineering Intern 
-Jun – Nov 2025
-Celebal Technologies
+### 🔹 Software Developer Intern · FactSet
 
+![Dates](https://img.shields.io/badge/Jan%202026%20--%20Jun%202026-0A66C2?style=flat-square&logo=clockify&logoColor=white)
+![Location](https://img.shields.io/badge/Hyderabad%20·%20On--site-555555?style=flat-square&logo=googlemaps&logoColor=white)
+
+<br/>
+
+### 🔹 Software Engineering Intern · Celebal Technologies
+
+![Dates](https://img.shields.io/badge/Jun%202025%20--%20Nov%202025-0A66C2?style=flat-square&logo=clockify&logoColor=white)
+![Location](https://img.shields.io/badge/Remote-555555?style=flat-square&logo=googlemaps&logoColor=white)
 
 📜 Certifications
 IBM: SQL & Relational Databases
