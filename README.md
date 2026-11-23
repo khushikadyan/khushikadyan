@@ -1,24 +1,34 @@
-<div align="center">
-Hi, I'm Khushi Kadyan 👋
+<!-- ============ HEADER ============ --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Hi%2C%20I'm%20Khushi%20Kadyan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%7C%20Data%20%26%20Technology%20Professional&descAlignY=62&descSize=18" width="100%"/> <!-- EDIT: change the lines after "lines=" (use + for spaces, ; between lines) --> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1100&color=00D9FF&center=true&vCenter=true&width=720&lines=Software+Engineer;Data+%26+Technology+Professional;Python+%7C+SQL+%7C+Machine+Learning+%7C+NLP;B.Tech+CSE+(Data+Science+%26+AI)" alt="Typing SVG" /> </a>
 
-Software Engineer | Data & Technology Professional  | Python | SQL | Machine Learning | NLP
+<br/><br/>
 
 B.Tech CSE (Data Science & AI) · Hyderabad, India
 
 LinkedIn Email
 
 </div>
+🖥️ terminal
+bash
+khushi@hyderabad:~$ whoami
+Khushi Kadyan | B.Tech CSE (Data Science & AI)
+
+khushi@hyderabad:~$ cat exploring.txt
+Software Engineering | Data Science | ML Engineering | Agentic AI & AI-powered Applications
+
+khushi@hyderabad:~$ cat open_to.txt
+Software Engineer | Data Scientist | Machine Learning Engineer | AI Engineer
 👩‍💻 About Me
 
-I'm an engineer passionate about building intelligent, scalable, and production-ready software solutions. I enjoy working at the intersection of Software Engineering, Machine Learning, Data Science, and AI — turning complex problems into practical applications.
+I'm an engineer passionate about building intelligent, scalable, and production-ready software solutions. I enjoy working at the intersection of Software Engineering, Machine Learning, Data Science, and AI, turning complex problems into practical applications.
 
 My interests span software development, data-driven problem-solving, NLP, LLMs, and agentic AI systems. I enjoy building end-to-end solutions, from designing efficient algorithms and working with data to developing APIs, integrating AI capabilities, and deploying real-world applications.
 
 I believe in writing clean, maintainable code, building reproducible systems, and creating technology that solves meaningful problems.
 
-🚀 Currently exploring: Software Engineering | Data Science | ML Engineering | Agentic AI & AI-powered Applications
+Currently exploring: Software Engineering | Data Science | ML Engineering | Agentic AI & AI-powered Applications
 
-🌱 Open to: Software Engineer, Data Scientist, Machine Learning Engineer, and AI Engineer opportunities.
+Open to: Software Engineer, Data Scientist, Machine Learning Engineer, and AI Engineer opportunities.
+
 🛠️ Tech Stack
 <!-- EDIT: add or remove badges. Badge format: https://img.shields.io/badge/NAME-COLOR?style=flat-square&logo=LOGO&logoColor=white -->
 
@@ -28,31 +38,18 @@ ML & Data: Show Image Show Image Show Image Show Image Show Image
 
 Backend & Tools: Show Image Show Image Show Image Show Image Show Image
 
-🚀 Projects
-<!-- EDIT: replace each (#) with your repo link -->
-
-NeuroScan: AI Brain Tumor Detection ResNet50 transfer-learning classifier for MRI scans, served through a JWT-secured FastAPI with PostgreSQL. Python TensorFlow FastAPI PostgreSQL
-
-Engineering Support Knowledge Platform Embedding-based semantic search over 1,200+ support conversations, deployed as a containerised FastAPI service. Contributed to a 60% reduction in client tickets. NLP Embeddings FastAPI Docker
-
-Deforestation Detection from Satellite Imagery CNN image classifier using Google Earth Engine data, with predictions shown in a Flask web app. Python Keras Flask
-
 💼 Experience
+<!-- EDIT: each block is one role -->
+Software Developer Intern, FactSet
 
-Software Developer Intern, FactSet · Jan – Jun 2026 Analysed financial data across multiple products, investigated discrepancies, validated REST API outputs, and built a Python API QA test generator.
+Jan – Jun 2026 Analysed financial data across multiple products, investigated discrepancies, validated REST API outputs, and built a Python API QA test generator.
 
-Software Engineering Intern, Celebal Technologies · Jun – Nov 2025 Cleaned and validated multi-source data with Python, Pandas and SQL, and added error handling to ETL workflows.
+Software Engineering Intern, Celebal Technologies
+
+Jun – Nov 2025 Cleaned and validated multi-source data with Python, Pandas and SQL, and added error handling to ETL workflows.
 
 📜 Certifications
 IBM: SQL & Relational Databases
 IBM: Build Your Own Chatbot
 ICT Academy / Atos: AI/ML Program (2025)
-📊 GitHub Stats
-<!-- OPTIONAL: delete this whole section if you don't want it --> <div align="center"> <img height="150" src="https://github-readme-stats.vercel.app/api?username=Khushi-Kadyan&show_icons=true&theme=default&hide_border=true" /> <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi-Kadyan&layout=compact&theme=default&hide_border=true" /> </div>
-<div align="center">
-
-🏸 Badminton · 🎨 Painting · 🌿 Picnics
-
-Progress over Perfection.
-
-</div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=90&section=footer" width="100%"/> </div>
