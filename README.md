@@ -1,7 +1,7 @@
 <div align="center">
 Hi, I'm Khushi Kadyan 👋
 
-Associate Data Scientist · Python · SQL · Machine Learning · NLP
+Software Engineer | Data Professional  · Python · SQL · Machine Learning · NLP
 
 B.Tech CSE (Data Science & AI) · Hyderabad, India
 
