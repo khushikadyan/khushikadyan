@@ -22,7 +22,7 @@ Open to: Software Engineer, Data Scientist, Machine Learning Engineer, and AI En
 🛠️ Tech Stack
 <!-- EDIT: add or remove badges. Badge format: https://img.shields.io/badge/NAME-COLOR?style=flat-square&logo=LOGO&logoColor=white -->
 
-Languages: ![Uploading image.png…]()
+Languages: <img width="117" height="97" alt="image" src="https://github.com/user-attachments/assets/959ea881-f78e-4662-8b7d-70ee44a91a8d" />
 
 
 ML & Data: Show Image Show Image Show Image Show Image Show Image
